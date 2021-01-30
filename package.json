@@ -1,25 +1,25 @@
 {
-  "name": "goit-js-hw-13-image-finder",
+  "name": "image-finder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-13-image-finder/",
+    "build": "parcel build src/index.html --public-url /image-finder/",
     "deploy": "gh-pages -d dist",
     "predeploy": "npm run build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kostiantyn-sagan/goit-js-hw-13-image-finder.git"
+    "url": "git+https://github.com/kostiantyn-sagan/image-finder.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kostiantyn-sagan/goit-js-hw-13-image-finder/issues"
+    "url": "https://github.com/kostiantyn-sagan/image-finder/issues"
   },
-  "homepage": "https://kostiantyn-sagan.github.io/goit-js-hw-13-image-finder",
+  "homepage": "https://kostiantyn-sagan.github.io/image-finder",
   "devDependencies": {
     "parcel-bundler": "^1.12.4",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
